@@ -1,4 +1,4 @@
-# Quasar App (quasar-project)
+# Quasar App (quasar-project) and NeRF models
 
 A Quasar Project
 
@@ -39,6 +39,8 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+
 ### Link For Rendered 3d Models
 https://iiitaphyd-my.sharepoint.com/:u:/g/personal/kyrylo_shyvam_students_iiit_ac_in/EWac3fUVYHBBir2A9KnhXYoBrAPC6X-V8aYrb9PGhnqy1Q?e=YM7Qyz
 ### Link for video
