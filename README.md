@@ -49,7 +49,7 @@ https://iiitaphyd-my.sharepoint.com/:u:/g/personal/kyrylo_shyvam_students_iiit_a
 
 ### Rendering from Terminal/PowerShell - 
 Commands are run as - 
->  ./instant-gpt.exe <location-of-model>
+>  ./instant-gpt.exe [location-of-model]
   
 ### Link for video
 https://iiitaphyd-my.sharepoint.com/:f:/g/personal/anushka_agrawal_students_iiit_ac_in/Eou8LX6KZ5BKuwuOcFWkJvwBdNFD1XORHKyTNLr73TyfKQ?e=FH3xGM
