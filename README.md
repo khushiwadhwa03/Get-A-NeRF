@@ -53,3 +53,6 @@ Commands are run as -
   
 ### Link for video
 https://iiitaphyd-my.sharepoint.com/:f:/g/personal/anushka_agrawal_students_iiit_ac_in/Eou8LX6KZ5BKuwuOcFWkJvwBdNFD1XORHKyTNLr73TyfKQ?e=FH3xGM
+
+### Link to download App
+https://iiitaphyd-my.sharepoint.com/:f:/g/personal/anushka_agrawal_students_iiit_ac_in/Er9csFmdnaFClH3EVwpDfPMBog5_Ui8AWa8N5-GJJ2bVgg?e=n47vQJ
